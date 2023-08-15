@@ -7,7 +7,9 @@ All point cloud files are stored under `samples/round_2/<scanned date>/<plant nu
 ### Point Cloud Files Naming Convention
 
 - `<scanned date>_<plant number>.xyz` - `28.2.23_1.xyz`  
+
   Unprocessed point cloud, containing pot and background.  
+
   TSV file consisting of columns: x, y, z, r, g, b
 
 - `<scanned date>_<plant number>_edited.txt` - `28.2.23_1_edited.txt`  
