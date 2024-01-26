@@ -1,5 +1,7 @@
 # 3D_Corn_Phenotype
 
+This documentation is for researchers, who want to use the following script to analyze point clouds of maize plants obtained during the research.
+
 ## Point Cloud Files
 
 All point cloud files are stored under `samples/round_2/<scanned date>/<plant number>`.
